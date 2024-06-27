@@ -5,6 +5,7 @@ contatos = {
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
+
 resultado = "guilherme@gmail.com" in contatos  # True
 print(resultado)
 
